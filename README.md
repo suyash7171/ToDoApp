@@ -17,11 +17,12 @@ A modern, feature-rich Todo application built with Flutter, offering an intuitiv
 
 ## Screenshots
 
-<img src="https://github.com/user-attachments/assets/2a406864-b1be-47f5-addb-88b92bcf5ed0" width="300" />
-<img src="https://github.com/user-attachments/assets/d5642b79-6028-4340-a4b9-41f38a77f9e3" width="300" />
-<img src="https://github.com/user-attachments/assets/3e5f5b7b-c4b0-43cd-a05b-dd5d3304f6c3" width="300" />
-<img src="https://github.com/user-attachments/assets/8c47e18e-bcec-447a-81af-89d3389068b6" width="300" />
-<img src="https://github.com/user-attachments/assets/30485d11-b1fe-485b-bbf1-d74219764ae7" width="300" />
+<img src="https://github.com/user-attachments/assets/2a406864-b1be-47f5-addb-88b92bcf5ed0" width="300" style="margin-bottom: 20px;" />
+<img src="https://github.com/user-attachments/assets/d5642b79-6028-4340-a4b9-41f38a77f9e3" width="300" style="margin-bottom: 20px;" />
+<img src="https://github.com/user-attachments/assets/3e5f5b7b-c4b0-43cd-a05b-dd5d3304f6c3" width="300" style="margin-bottom: 20px;" />
+<img src="https://github.com/user-attachments/assets/8c47e18e-bcec-447a-81af-89d3389068b6" width="300" style="margin-bottom: 20px;" />
+<img src="https://github.com/user-attachments/assets/30485d11-b1fe-485b-bbf1-d74219764ae7" width="300" style="margin-bottom: 20px;" />
+
 
 
 
