@@ -36,7 +36,7 @@ A modern, feature-rich Todo application built with Flutter, offering an intuitiv
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/todoapp.git
+https://github.com/suyash7171/ToDoApp.git
 ```
 
 2. Navigate to the project directory
